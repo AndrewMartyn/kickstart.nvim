@@ -25,6 +25,10 @@ return {
           ['\\'] = 'close_window',
         },
       },
+      source_selector = {
+        winbar = false,
+        statusline = false,
+      },
     },
   },
 }
